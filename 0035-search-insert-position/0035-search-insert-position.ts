@@ -2,7 +2,6 @@ function searchInsert(nums: number[], target: number): number {
     let pos = 0;
 
     if( nums[0] > target ) {
-        console.log(target);
         return 0;
     }
     
