@@ -7,7 +7,6 @@ function isValid(s: string): boolean {
     ]);
 
     for (const character of s) {
-        console.log(stack);
         if (mapping.has(character)) {
             stack.push(character);
         } else {
