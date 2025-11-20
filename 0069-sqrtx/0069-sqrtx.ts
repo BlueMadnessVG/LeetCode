@@ -13,6 +13,5 @@ function mySqrt(x: number): number {
         else right = mid - 1;
     }
 
-    console.log(right);
     return right;
 };
