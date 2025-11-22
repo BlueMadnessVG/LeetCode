@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/BlueMadnessVG/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/BlueMadnessVG/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/BlueMadnessVG/LeetCode/tree/master/0066-plus-one) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BlueMadnessVG/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/BlueMadnessVG/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/BlueMadnessVG/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/BlueMadnessVG/LeetCode/tree/master/0070-climbing-stairs) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BlueMadnessVG/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
