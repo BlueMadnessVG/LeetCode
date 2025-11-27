@@ -15,7 +15,7 @@ function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | nul
     let current = dummyHead;
     let total = 0, carry = 0;
 
-    while( l1 || l2 || carry ) {
+    while (l1 || l2 || carry) {
         total = carry;
 
         if (l1) {
@@ -33,6 +33,6 @@ function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | nul
         dummyHead.next = new ListNode(num);
         dummyHead = dummyHead.next;
     }
-    
+
     return current.next;
 };
