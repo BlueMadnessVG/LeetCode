@@ -17,10 +17,10 @@ function intToRoman(num: number): string {
     let result: string = '';
 
     for (const [value, symbol] of romanMap) {
-        while (num >= value) {
-            result += symbol;
-            num -= value;
-        }
+       if (num === 0) break;
+       const count = Math.floor(num / value);
+       result += symbol.repeat(count);
+       num -= count * value;
     }
 
     return result;
