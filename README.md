@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BlueMadnessVG/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BlueMadnessVG/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/BlueMadnessVG/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/BlueMadnessVG/LeetCode/tree/master/3583-count-special-triplets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BlueMadnessVG/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BlueMadnessVG/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/BlueMadnessVG/LeetCode/tree/master/0013-roman-to-integer) |
+| [3583-count-special-triplets](https://github.com/BlueMadnessVG/LeetCode/tree/master/3583-count-special-triplets) |
 ## Math
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/BlueMadnessVG/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Counting
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/BlueMadnessVG/LeetCode/tree/master/3583-count-special-triplets) |
 <!---LeetCode Topics End-->
