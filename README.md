@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BlueMadnessVG/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BlueMadnessVG/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BlueMadnessVG/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/BlueMadnessVG/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/BlueMadnessVG/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/BlueMadnessVG/LeetCode/tree/master/3583-count-special-triplets) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BlueMadnessVG/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BlueMadnessVG/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BlueMadnessVG/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/BlueMadnessVG/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## String
 |  |
 | ------- |
@@ -162,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3583-count-special-triplets](https://github.com/BlueMadnessVG/LeetCode/tree/master/3583-count-special-triplets) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/BlueMadnessVG/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/BlueMadnessVG/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
