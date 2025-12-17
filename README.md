@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BlueMadnessVG/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/BlueMadnessVG/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BlueMadnessVG/LeetCode/tree/master/0013-roman-to-integer) |
+| [2266-count-number-of-texts](https://github.com/BlueMadnessVG/LeetCode/tree/master/2266-count-number-of-texts) |
 | [3531-count-covered-buildings](https://github.com/BlueMadnessVG/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/BlueMadnessVG/LeetCode/tree/master/3583-count-special-triplets) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/BlueMadnessVG/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/BlueMadnessVG/LeetCode/tree/master/0070-climbing-stairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/BlueMadnessVG/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2266-count-number-of-texts](https://github.com/BlueMadnessVG/LeetCode/tree/master/2266-count-number-of-texts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BlueMadnessVG/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BlueMadnessVG/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BlueMadnessVG/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BlueMadnessVG/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/BlueMadnessVG/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/BlueMadnessVG/LeetCode/tree/master/0067-add-binary) |
+| [2266-count-number-of-texts](https://github.com/BlueMadnessVG/LeetCode/tree/master/2266-count-number-of-texts) |
 ## Linked List
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BlueMadnessVG/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/BlueMadnessVG/LeetCode/tree/master/0070-climbing-stairs) |
+| [2266-count-number-of-texts](https://github.com/BlueMadnessVG/LeetCode/tree/master/2266-count-number-of-texts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/BlueMadnessVG/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Memoization
 |  |
