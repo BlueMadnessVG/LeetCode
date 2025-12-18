@@ -1,13 +1,11 @@
 function twoSum(nums: number[], target: number): number[] {
-    const numMap: Map<number, number> = new Map;
+    const pairIdx = {};
 
-    for(let i = 0; i < nums.length; i++) {
-        const complement = target - nums[i];
-        if(numMap.has(complement)) {
-            return [i, numMap.get(complement)!]
+    for (let i = 0; i < nums.length; i++) {
+        const num = nums[i];
+        if (target - num in pairIdx) {
+            return [i, pairIdx[target - num]];
         }
-        numMap.set(nums[i], i);
-    }
-
-    return [];
+        pairIdx[num] = i;
+    }  
 };
