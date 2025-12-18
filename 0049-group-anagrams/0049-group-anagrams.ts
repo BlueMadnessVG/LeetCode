@@ -1,5 +1,4 @@
 function groupAnagrams(strs: string[]): string[][] {
-    if (strs.length === 1) return [strs];
 
     let ans = {};
     for(let s of strs) {
