@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BlueMadnessVG/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/BlueMadnessVG/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1975-maximum-matrix-sum](https://github.com/BlueMadnessVG/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BlueMadnessVG/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BlueMadnessVG/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BlueMadnessVG/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BlueMadnessVG/LeetCode/tree/master/0011-container-with-most-water) |
+| [1975-maximum-matrix-sum](https://github.com/BlueMadnessVG/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/BlueMadnessVG/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/BlueMadnessVG/LeetCode/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
