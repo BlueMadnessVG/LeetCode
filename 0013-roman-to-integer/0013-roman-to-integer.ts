@@ -13,10 +13,11 @@ function romanToInt(s: string): number {
     for (let i = 0; i < s.length - 1; i++) {
         if ( romanCharacters.get(s[i]) < romanCharacters.get(s[i + 1]) ) {
             sum -= romanCharacters.get(s[i]);
-        }
-        else {
-            sum += romanCharacters.get(s[i])
+        } else {
+            sum += romanCharacters.get(s[i]);
         }
     }
-    return sum +  romanCharacters.get(s[s.length - 1]);
+
+
+    return sum + romanCharacters.get(s[s.length - 1]);
 };
