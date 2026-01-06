@@ -10,14 +10,16 @@ function romanToInt(s: string): number {
     ]);
     let sum: number = 0;
 
-    for (let i = 0; i < s.length - 1; i++) {
-        if ( romanCharacters.get(s[i]) < romanCharacters.get(s[i + 1]) ) {
-            sum -= romanCharacters.get(s[i]);
+    for (let i = 0; i < s.length; i++) {
+        const current: number = romanCharacters.get(s[i]);
+        const next: number = romanCharacters.get(s[i + 1]) ?? 0;
+
+        if (current < next) {
+            sum -= current;
         } else {
-            sum += romanCharacters.get(s[i]);
+            sum += current;
         }
     }
 
-
-    return sum + romanCharacters.get(s[s.length - 1]);
+    return sum;
 };
