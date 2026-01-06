@@ -5,13 +5,13 @@ function mySqrt(x: number): number {
     let right = Math.floor(x / 2);
 
     while (left <= right) {
-        let mid = Math.floor((left + right) / 2);
-        const square = mid * mid;
+        const mid = Math.floor((left + right) / 2);
+        const squere = mid * mid;
 
-        if( square == x ) return mid;
-        else if (square < x) left = mid + 1;
-        else right = mid - 1;
-    }
+        if (squere === x) return mid;
+        else if (squere > x) right = mid - 1;
+        else left = mid + 1; 
+    } 
 
     return right;
 };
