@@ -12,11 +12,26 @@
  * }
  */
 
+function getDepth(node: TreeNode): number {
+    let depth = 0;
+
+    while(node) {
+        node = node.left;
+        depth++;
+    }
+
+    return depth
+}
+
 function countNodes(root: TreeNode | null): number {
-    if (root === null) return 0;
+    if (!root) return 0;
 
-    const leftCount = countNodes(root.left);
-    const rightCount = countNodes(root.right);
+    const leftCount = getDepth(root.left);
+    const rightCount = getDepth(root.right);
 
-    return leftCount + rightCount + 1;
+    if (leftCount === rightCount) {
+        return (1 << leftCount) + countNodes(root.right);
+    } else {
+        return (1 << rightCount) + countNodes(root.left);
+    }
 };
