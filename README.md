@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BlueMadnessVG/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/BlueMadnessVG/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/BlueMadnessVG/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/BlueMadnessVG/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BlueMadnessVG/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BlueMadnessVG/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BlueMadnessVG/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/BlueMadnessVG/LeetCode/tree/master/0070-climbing-stairs) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/BlueMadnessVG/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2266-count-number-of-texts](https://github.com/BlueMadnessVG/LeetCode/tree/master/2266-count-number-of-texts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/BlueMadnessVG/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Memoization
