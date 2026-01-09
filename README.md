@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/BlueMadnessVG/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BlueMadnessVG/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/BlueMadnessVG/LeetCode/tree/master/0049-group-anagrams) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/BlueMadnessVG/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2266-count-number-of-texts](https://github.com/BlueMadnessVG/LeetCode/tree/master/2266-count-number-of-texts) |
 | [3531-count-covered-buildings](https://github.com/BlueMadnessVG/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/BlueMadnessVG/LeetCode/tree/master/3583-count-special-triplets) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/BlueMadnessVG/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/BlueMadnessVG/LeetCode/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/BlueMadnessVG/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/BlueMadnessVG/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BlueMadnessVG/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/BlueMadnessVG/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BlueMadnessVG/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/BlueMadnessVG/LeetCode/tree/master/0100-same-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/BlueMadnessVG/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BlueMadnessVG/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/BlueMadnessVG/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
@@ -167,12 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/BlueMadnessVG/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/BlueMadnessVG/LeetCode/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/BlueMadnessVG/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/BlueMadnessVG/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BlueMadnessVG/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/BlueMadnessVG/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/BlueMadnessVG/LeetCode/tree/master/0100-same-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/BlueMadnessVG/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BlueMadnessVG/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Greedy
 |  |
