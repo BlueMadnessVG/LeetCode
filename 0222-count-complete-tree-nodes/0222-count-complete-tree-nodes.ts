@@ -20,7 +20,7 @@ function getDepth(node: TreeNode): number {
         depth++;
     }
 
-    return depth
+    return depth;
 }
 
 function countNodes(root: TreeNode | null): number {
