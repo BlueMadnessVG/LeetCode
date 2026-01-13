@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/BlueMadnessVG/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/0268-missing-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/BlueMadnessVG/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1470-shuffle-the-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/BlueMadnessVG/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BlueMadnessVG/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
