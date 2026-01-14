@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/BlueMadnessVG/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/BlueMadnessVG/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/BlueMadnessVG/LeetCode/tree/master/0645-set-mismatch) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/BlueMadnessVG/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BlueMadnessVG/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/BlueMadnessVG/LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/BlueMadnessVG/LeetCode/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/BlueMadnessVG/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2266-count-number-of-texts](https://github.com/BlueMadnessVG/LeetCode/tree/master/2266-count-number-of-texts) |
 | [3531-count-covered-buildings](https://github.com/BlueMadnessVG/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/BlueMadnessVG/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/BlueMadnessVG/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/BlueMadnessVG/LeetCode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BlueMadnessVG/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/BlueMadnessVG/LeetCode/tree/master/0645-set-mismatch) |
 | [3531-count-covered-buildings](https://github.com/BlueMadnessVG/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Tree
 |  |
