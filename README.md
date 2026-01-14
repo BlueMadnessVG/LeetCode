@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BlueMadnessVG/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BlueMadnessVG/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/BlueMadnessVG/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/BlueMadnessVG/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BlueMadnessVG/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/BlueMadnessVG/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/BlueMadnessVG/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/BlueMadnessVG/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/0268-missing-number) |
 | [3453-separate-squares-i](https://github.com/BlueMadnessVG/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/BlueMadnessVG/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -242,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/BlueMadnessVG/LeetCode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/BlueMadnessVG/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
