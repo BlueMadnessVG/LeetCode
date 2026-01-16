@@ -1,19 +1,16 @@
 function lengthOfLongestSubstring(s: string): number {
-    let newStr = new Set();
+    let maxLength = 0;
     let left = 0;
-    let largerStr: number = 0;
+    let lastSeen = {};
 
-    for (let r = 0; r < s.length; r++) {
-       let c = s[r];
-       newStr[c] = ( newStr[c] || 0 ) + 1;
-       
-       while( newStr[c] > 1 ) {
-        newStr[s[left]] -= 1;
-        left++;
-       }
-
-       largerStr = Math.max(largerStr, r - left + 1);
+    for (let right = 0; right < s.length; right++) {
+        let c = s.charAt(right);
+        if (c in lastSeen && lastSeen[c] >= left) {
+            left = lastSeen[c] + 1;
+        }
+        maxLength = Math.max(maxLength, right - left + 1);
+        lastSeen[c] = right;
     }
 
-    return largerStr;
+    return maxLength;
 };
