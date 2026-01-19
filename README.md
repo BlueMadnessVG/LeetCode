@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/BlueMadnessVG/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/BlueMadnessVG/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/BlueMadnessVG/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/BlueMadnessVG/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/BlueMadnessVG/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BlueMadnessVG/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/BlueMadnessVG/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/BlueMadnessVG/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/BlueMadnessVG/LeetCode/tree/master/0412-fizz-buzz) |
+| [1441-build-an-array-with-stack-operations](https://github.com/BlueMadnessVG/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
