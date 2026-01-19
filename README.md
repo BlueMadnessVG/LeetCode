@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BlueMadnessVG/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BlueMadnessVG/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/BlueMadnessVG/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/BlueMadnessVG/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/BlueMadnessVG/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BlueMadnessVG/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/BlueMadnessVG/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/BlueMadnessVG/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/BlueMadnessVG/LeetCode/tree/master/0645-set-mismatch) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/BlueMadnessVG/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/BlueMadnessVG/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/BlueMadnessVG/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/BlueMadnessVG/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/BlueMadnessVG/LeetCode/tree/master/0169-majority-element) |
 | [3583-count-special-triplets](https://github.com/BlueMadnessVG/LeetCode/tree/master/3583-count-special-triplets) |
 ## Brainteaser
 |  |
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/BlueMadnessVG/LeetCode/tree/master/3454-separate-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BlueMadnessVG/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
