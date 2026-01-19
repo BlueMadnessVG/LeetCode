@@ -1,14 +1,13 @@
 function majorityElement(nums: number[]): number {
-    const hash = {};
     let res = 0;
     let majority = 0;
 
     for (let n of nums) {
-        hash[n] = 1 + (hash[n] || 0);
-        if (hash[n] > majority) {
+        if (majority === 0) {
             res = n;
-            majority = hash[n];
         }
+
+        majority += n === res ? 1 : -1;
     }
 
     return res;
