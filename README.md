@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BlueMadnessVG/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/BlueMadnessVG/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BlueMadnessVG/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/BlueMadnessVG/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BlueMadnessVG/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/BlueMadnessVG/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/BlueMadnessVG/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/BlueMadnessVG/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BlueMadnessVG/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/BlueMadnessVG/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/BlueMadnessVG/LeetCode/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/BlueMadnessVG/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/BlueMadnessVG/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BlueMadnessVG/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BlueMadnessVG/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/BlueMadnessVG/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
