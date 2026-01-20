@@ -7,5 +7,5 @@ function twoSum(nums: number[], target: number): number[] {
             return [i, pairIdx[target - num]];
         }
         pairIdx[num] = i;
-    }  
+    }
 };
