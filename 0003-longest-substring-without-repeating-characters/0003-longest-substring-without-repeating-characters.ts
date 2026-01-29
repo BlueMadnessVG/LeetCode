@@ -1,5 +1,5 @@
 function lengthOfLongestSubstring(s: string): number {
-   let arr = new Array(128).fill(false);
+    let arr = new Array(128).fill(false);
     let l = 0, r = 0, maxLen = 0;
 
     while (r < s.length) {
