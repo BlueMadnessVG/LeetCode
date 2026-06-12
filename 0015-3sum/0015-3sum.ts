@@ -1,12 +1,12 @@
 function threeSum(nums: number[]): number[][] {
-    let res = [];
+     let res = [];
     nums.sort((a, b) => a - b);
 
     for (let i = 0; i < nums.length; i++) {
-        if (i > 0 && nums[i] === nums[i - 1]) {
+        if (i > 0 && nums[i] === nums[i-1]) {
             continue;
         }
-
+        
         let j = i + 1;
         let k = nums.length - 1;
 
@@ -15,18 +15,21 @@ function threeSum(nums: number[]): number[][] {
 
             if (total > 0) {
                 k--;
-            } else  if (total < 0) {
+            } else if (total < 0) {
                 j++;
             } else {
-                 res.push( [nums[i], nums[j], nums[k]] );
-                 j++;
+                res.push([nums[i], nums[j], nums[k]]);
+                j++;
 
-                 while (nums[j] === nums[j - 1] && j < k) { 
-                    j++
-                 }
+                while (nums[j] === nums[j-1] && j < k) {
+                    j++;
+                }
             }
         }
     }
-
-    return res;
+    return res;    
 };
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
